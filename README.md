@@ -1,1 +1,2 @@
-# C-21-CLASS-PROJECT-GSCO
+# p5.play-boilerplate
+Boiler plate for p5.play
